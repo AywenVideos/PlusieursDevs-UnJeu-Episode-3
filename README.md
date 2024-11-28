@@ -24,7 +24,5 @@ Thème : Créer un jeu d'horreur - [Vidéo YouTube](https://www.youtube.com/watc
 ## 📇 Télécharger le jeu :
 [Clique ici](https://github.com/AywenVideos/HuitDevs-UnJeu-Episode-2/releases/tag/1.0) !
 
-*Si Windows SmartScreen bloque l'exécution ➜ "informations complémentaires" et "Exécuter"*
-
 ## License:
 This project is licensed under the MIT License - see the LICENSE file for details.

@@ -1,0 +1,9 @@
+1) Double CLick on the Texture Materials in Cinema 4D
+2) Open each texture file from the directory you saved the textures folder
+3) The Texture file name should be in the box at the bottom, once the textures directory is found, press enter and it should just load the texture that is needed.
+4) Then press no to the little message
+5) Do this for all textures (Finding the directory might not be needed for eveery texture, it should open the textures folder after finding it for the first texture)
+6) Once done, you will be ready to go, it might seem glitchy and textures are missing but once you render, it will look good :) i used ambient occlusion for better look.
+
+
+If you wish to request any 3D Models you would like, inbox me and i will try my best to RIP them :D happy modeling
