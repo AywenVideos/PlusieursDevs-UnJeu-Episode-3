@@ -22,7 +22,7 @@ Thème : Créer un jeu d'horreur - [Vidéo YouTube](https://www.youtube.com/watc
 - [LeThur](https://www.youtube.com/channel/UCkL5Luksrdqxc7s1znM6xIw)
 
 ## 📇 Télécharger le jeu :
-[Clique ici](https://github.com/AywenVideos/HuitDevs-UnJeu-Episode-2/releases/tag/1.0) !
+[Clique ici](https://github.com/AywenVideos/PlusieursDevs-UnJeu-Episode-3/releases/tag/1.0) !
 
 ## License:
 This project is licensed under the MIT License - see the LICENSE file for details.
