@@ -25,4 +25,4 @@ Thème : Créer un jeu d'horreur - [Vidéo YouTube](https://www.youtube.com/watc
 [Clique ici](https://github.com/AywenVideos/PlusieursDevs-UnJeu-Episode-3/releases/tag/1.0) !
 
 ## License:
-This project is licensed under the Unlicense - see the LICENSE file for details.
+This project is under the Unlicense - see the LICENSE file for details.
