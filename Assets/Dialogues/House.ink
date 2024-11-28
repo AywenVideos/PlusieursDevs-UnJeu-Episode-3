@@ -1,0 +1,3 @@
+PLAYER_NAME: ENFIN ! Une maison !
+PLAYER_NAME: Purée ! La porte est fermée ! 
+PLAYER_NAME: Je devrais aller voir dans ces bois s'il n'y a pas une clé ou quelque chose dans le genre...

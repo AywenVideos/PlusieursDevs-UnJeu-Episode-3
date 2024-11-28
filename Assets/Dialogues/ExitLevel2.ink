@@ -1,0 +1,1 @@
+﻿PLAYER_NAME: Je suis sûr que cette porte était verrouillée. Quelqu'un l'a ouverte ?

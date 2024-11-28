@@ -1,0 +1,18 @@
+Par Thibyx
+
+Pour creer un succès :
+| 1. Aller dans Resources/Achievements
+| 2. Click droit > Scriptable Object > Achievements
+| 3. Modifier les données de succès
+
+Pour donner un succès :
+| 1. Créer un GameObject avec un collider
+| 2. Mettre le collider en Is Trigger
+| 3. Ajouter le script Achievement Zone Trigger
+| 4. Indiquer dans les variables :
+| - le GameObject qui run Achievement Manager en fond
+| - Le succès à donner !
+
+Plus d'infos dans Scripts/AchievementsManager.cs
+
+(PS ya encore qq ptit bug avec les notifs de succès, mais ça, c'est à vous de voir)
