@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Saidus2/Scenes/StartMenu.unity
+    guid: 027b6a65f22c70a47af3a08006ed8eaf
+  - enabled: 1
+    path: Assets/Saidus2/Scenes/LevelScene.unity
+    guid: fd5c4f821f60f504e86f3c46b210de1c
+  - enabled: 1
+    path: Assets/Saidus2/Scenes/LoadingScene.unity
+    guid: c63961031c6cdb3488ed127a809ff739
+  - enabled: 1
+    path: Assets/Scenes/level2.unity
+    guid: a256f4c730b2e27408e90346866200c2
+  - enabled: 1
+    path: Assets/Scenes/EasterEgg.unity
+    guid: 6543bb7b29b867346b1f882d44a0ab7d
+  - enabled: 1
+    path: Assets/Xernas78/Scenes/TheVoid.unity
+    guid: cb4f0c637a85ef547b318f8a85b9b718
+  - enabled: 1
+    path: Assets/Scenes/Spaceship.unity
+    guid: becf4d4b5e9c3344fb33cd0b7621f6e5
+  - enabled: 1
+    path: Assets/Saidus2/Scenes/GameOverScene.unity
+    guid: d71385670c123be48afeaef0873e423a
+  - enabled: 0
+    path: "Assets/C'est organis\xE9 chez moi au moins/Final.unity"
+    guid: 429882a9e99f3894690b789b80c05087
+  - enabled: 1
+    path: "Assets/C'est organis\xE9 chez moi au moins/3dModel/Fantasy Forest Environment
+      Free Sample/Scenes/Final.unity"
+    guid: 7769f33fb4fa2e5458344a36556ad760
+  - enabled: 1
+    path: "Assets/C'est organis\xE9 chez moi au moins/lastLevel.unity"
+    guid: d9a7496eca8ffdc4a87494ca2d82ccac
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: b03a720571e86654ba0885383a3fdb32,
+      type: 2}
