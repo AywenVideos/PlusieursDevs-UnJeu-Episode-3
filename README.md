@@ -4,7 +4,7 @@ Un jeu développé par plusieurs volontaires qui n'ont pas pu se parler pendant 
 
 Thème : Créer un jeu d'horreur - [Vidéo YouTube](https://www.youtube.com/watch?v=O7t-_inlcIE)
 > [!IMPORTANT]
-> Certains fichiers ressources ont étés retirés car sont trop volumineux pour être hebergés sur GitHub, merci de fusionner le repo github [avec ces fichiers](https://terabox.com/s/1-ZZT1tiVb2_Qja_T01zKug) afin de pouvoir ouvrir le projet
+> Certains fichiers ressources ont étés retirés car sont trop volumineux pour être hebergés sur GitHub, merci de fusionner le repo github [avec ces fichiers](https://e.pcloud.link/publink/show?code=XZTsaxZWhbNyfthII5wx1pUnjgIf04e2KaV) afin de pouvoir ouvrir le projet
 >
 
 ## 👋 Participants :
